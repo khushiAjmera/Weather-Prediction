@@ -2,7 +2,7 @@ Taken dataset from noaa site.
 
 Overview:
 
-This project focuses on predicting weather conditions using Ridge Regression, a machine learning technique known for handling multicollinearity and overfitting in regression models. The model achieved an accuracy of 84.82% in forecasting various weather parameters based on historical data.
+This project focuses on predicting weather conditions using Ridge Regression, a machine learning technique known for handling multicollinearity and overfitting in regression models. 
 
 Goals:
 
